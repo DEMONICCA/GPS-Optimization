@@ -1,0 +1,9 @@
+id=GPS
+name=GPS Optimization
+version=1.5.0
+versionCode=150
+author=@illumi
+description=This module optimizes the GPS configuration by installing customized flp.conf and gps.conf files to improve stability, performance, and compatibility on Android devices.
+support=https://trakteer.id/demonica/tip
+donate=https://www.paypal.com/paypalme/faniadittiya
+banner=https://raw.githubusercontent.com/DEMONICCA/GPS-Optimization/refs/heads/main/GPS%20Optimization.jpg
